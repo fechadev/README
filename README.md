@@ -2,7 +2,8 @@
 # Olá, eu sou Fernando Chagas (fecha)
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎂 Possuo 22 anos.
+- 🤔 Me aprofundando em desenvolvimento web e portátil.
 - 🎓 Estudando ADS na FATEC.
 - 💼 Buscando novas oportunidades na área
 - 🌱 Aprendendo mais sobre Java, SpringBOOT e noSQL.
